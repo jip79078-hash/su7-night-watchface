@@ -1,0 +1,40 @@
+{
+  "item": {
+    "id": "979830909315",
+    "restype": "watchface",
+    "name": "SU7 夜行·七色光影",
+    "description": "七种车色 × 三种夜景路面，共21种组合。轻点汽车开关灯，长按汽车换车色，长按时间换路面色；集成时间、日期、农历、天气、电量、步数、热量、心率、站立与昨晚睡眠。\n\n仅适配小米手环9 Pro。作者已在9 Pro实机使用；本次发布基于V26工程，取消睡眠时长固定补偿。不提供独立AOD息屏设计。睡眠按设备数据换算，可能与系统睡眠页面相差几分钟；目标固定8小时，色条不代表睡眠阶段。\n\n汽车与灯光仅为装饰交互，无车辆控制功能。本表盘为个人制作，与相关品牌无官方关联；相关品牌/IP归各权利人所有，与AstroBox及小米无关。预览为包内素材合成、数值为示意，实际数据以设备为准。",
+    "preview": [
+      "media/preview-01.png",
+      "media/preview-02.png",
+      "media/preview-03.png",
+      "media/preview-04-guide-v26.png",
+      "media/preview-05-rights.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "Jip79078",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "0.10.0",
+      "file_name": "downloads/SU7-v26-candidate.face",
+      "versionCode": 2560,
+      "updatelogs": [
+        {
+          "version": "0.10.0",
+          "content": "首次公开发布，基于V26工程。\n7种车色×3种路面，共21种组合；轻点开关车灯，长按汽车换色、长按时间切换路面。\n仅适配小米手环9 Pro，作者已在该机型实机使用。\n取消睡眠时长固定2分钟补偿；显示可能仍与系统页面相差几分钟，目标固定8小时。\n无独立AOD，详情见介绍和操作说明图。"
+        }
+      ]
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
